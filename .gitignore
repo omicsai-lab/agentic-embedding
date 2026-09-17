@@ -1,3 +1,4 @@
 agentic_RNASeq/agentic_ai_pca_based_embedding_experiments/data/
 agentic_RNASeq/actual_rnaseq_analysis/data/
-
+agentic_RNASeq/*.rds
+agentic_RNASeq/GDCdata/
