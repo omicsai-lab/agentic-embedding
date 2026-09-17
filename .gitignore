@@ -1,7 +1,7 @@
-agentic_RNASeq/agentic_ai_pca_based_embedding_experiments/data/
-agentic_RNASeq/actual_rnaseq_analysis/data/
-agentic_RNASeq/*.rds
-agentic_RNASeq/GDCdata/
+agentic_ai_pca_based_embedding_experiments/data/
+actual_rnaseq_analysis/data/
+*.rds
+GDCdata/
 
 # OS / editor junk
 .DS_Store
